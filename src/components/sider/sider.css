@@ -1,0 +1,88 @@
+.sider{
+    width: 325px;
+}
+.siderchild1{
+    background-color: #fff;
+    height: 150px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+.siderchild1 p{
+    margin-left: 10px;
+}
+.git{
+    border-radius: 2px;
+    margin-left: 10px;
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 18px;
+    border-radius: 5px;
+    background: rgb(12, 194, 226);
+    color: #fff;
+}
+.sp1{
+    font-size: 18px;
+    color: #000;
+    padding-top: 15px;
+}
+.sp2{
+    color: rgb(172, 166, 166);
+    padding-top: 5px;
+    color: #000;
+} 
+.siderchild2{
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    height: 60px;
+}
+.siderchild3{
+    height: 220px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.loginbox{
+    height: 260px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.loginbox p{
+    height: 20px;
+    font-size: 15px;
+    color: #000;
+    margin-left: 10px;
+}
+.backcolor{
+    height: 40px;
+    background: rgb(250, 250, 247);
+    color: #000;
+    line-height: 40px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.siderchild3 p{
+    height: 20px;
+    font-size: 16px;
+    color: rgb(119, 117, 117);
+    margin-left: 10px;
+}
+.siderchild4{
+    height: 380px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.siderchild4 p{
+    height: 20px;
+    font-size: 15px;
+    color: rgb(119, 117, 117);
+    margin-left: 10px;
+}
+
+/*start*/
+.start{
+    height: 325px;
+
+}
+  
